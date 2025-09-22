@@ -1,1 +1,1 @@
-Final project from the programing logic subject, first semester of computer engineering
+Final project from the programing logic subject, first semester of computer engineering. The whole code is in the .c file. The professor report from the test case is written in the .txt file, stating that the code didn't pass in only 2 out of 19 case tests.
