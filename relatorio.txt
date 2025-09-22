@@ -1,0 +1,533 @@
+❯ gcc teste.c
+❯ ./a.out
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 2
+--------------------
+I - Incluir livro
+E - Excluir livro
+A - Alterar livro
+R - Relatórios
+1 - Incluir/Excluir autores
+i 
+Digite o ID, quantidade de autores, os autores, titulo, edicao, editora e o ano: 201
+1
+Tanenbaum
+Organização estruturada de computadores
+6
+São Paulo: Pearson
+2013
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 2
+--------------------
+I - Incluir livro
+E - Excluir livro
+A - Alterar livro
+R - Relatórios
+1 - Incluir/Excluir autores
+i
+Digite o ID, quantidade de autores, os autores, titulo, edicao, editora e o ano: 202
+2
+NULL
+LOBUR
+Princípios básicos de arquitetura e organização de computadores
+2
+Porto Alegre: Bookman
+2010
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 2
+--------------------
+I - Incluir livro
+E - Excluir livro
+A - Alterar livro
+R - Relatórios
+1 - Incluir/Excluir autores
+i
+Digite o ID, quantidade de autores, os autores, titulo, edicao, editora e o ano: 203
+3
+SILBERSCHATZ
+GALVIN
+GAGNE
+Operating system concepts
+7
+Estados Unidos: John Wiley & Sons
+2005
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 2
+--------------------
+I - Incluir livro
+E - Excluir livro
+A - Alterar livro
+R - Relatórios
+1 - Incluir/Excluir autores
+r
+Livros cadastrados:
+Livro 1:
+Identificador: 201
+Titulo: Organização estruturada de computadores
+Edicao: 6
+Editora: São Paulo: Pearson
+Ano: 2013
+Autores: Tanenbaum
+--------------------
+Livro 2:
+Identificador: 202
+Titulo: Princípios básicos de arquitetura e organização de computadores
+Edicao: 2
+Editora: Porto Alegre: Bookman
+Ano: 2010
+Autores: NULL
+LOBUR
+--------------------
+Livro 3:
+Identificador: 203
+Titulo: Operating system concepts
+Edicao: 7
+Editora: Estados Unidos: John Wiley & Sons
+Ano: 2005
+Autores: SILBERSCHATZ
+GALVIN
+GAGNE
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 2
+--------------------
+I - Incluir livro
+E - Excluir livro
+A - Alterar livro
+R - Relatórios
+1 - Incluir/Excluir autores
+e
+Digite o identificador do livro a ser excluido: 202
+Campos apagados: ID: 202
+Autores: NULL
+LOBUR
+Título: Princípios básicos de arquitetura e organização de computadores
+Edição: 2
+Editora: Porto Alegre: Bookman
+Ano: 2010
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 2
+--------------------
+I - Incluir livro
+E - Excluir livro
+A - Alterar livro
+R - Relatórios
+1 - Incluir/Excluir autores
+i
+Digite o ID, quantidade de autores, os autores, titulo, edicao, editora e o ano: 202
+2
+NULL
+LOBUR
+Princípios básicos de arquitetura e organização de computadores
+2
+Porto Alegre: Bookman
+2010
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 1
+--------------------
+I - Incluir usuario
+E - Excluir usuario
+A - Alterar usuario
+R - Relatórios
+i 
+Digite o identificador, nome, endereço e telefone: 101
+Maria
+Rua do Socorro
+31999999999
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 1
+--------------------
+I - Incluir usuario
+E - Excluir usuario
+A - Alterar usuario
+R - Relatórios
+i
+Digite o identificador, nome, endereço e telefone: 102
+Rua dos Aimorés
+31444444444
+1
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: i
+--------------------
+I - Incluir usuario
+E - Excluir usuario
+A - Alterar usuario
+R - Relatórios
+Digite o identificador, nome, endereço e telefone: 103
+Roberto
+Rua dos computadores
+31555555555
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 1
+--------------------
+I - Incluir usuario
+E - Excluir usuario
+A - Alterar usuario
+R - Relatórios
+r
+Usuarios cadastrados:
+Usuario 1:
+Identificador: 101
+Nome: Maria
+Endereco: Rua do Socorro
+Telefone: 31999999999
+--------------------
+Usuario 2:
+Identificador: 102
+Nome: Rua dos Aimorés
+Endereco: 31444444444
+Telefone: 1
+--------------------
+Usuario 3:
+Identificador: 103
+Nome: Roberto
+Endereco: Rua dos computadores
+Telefone: 31555555555
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 1
+--------------------
+I - Incluir usuario
+E - Excluir usuario
+A - Alterar usuario
+R - Relatórios
+e
+Digite o identificador do usuario a ser excluido: 101
+Campos apagados:
+ID: 101
+Nome: Maria
+Endereço: Rua do Socorro
+Telefone: 31999999999
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 1
+--------------------
+I - Incluir usuario
+E - Excluir usuario
+A - Alterar usuario
+R - Relatórios
+r
+Usuarios cadastrados:
+Usuario 1:
+Identificador: 102
+Nome: Rua dos Aimorés
+Endereco: 31444444444
+Telefone: 1
+--------------------
+Usuario 2:
+Identificador: 103
+Nome: Roberto
+Endereco: Rua dos computadores
+Telefone: 31555555555
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 1
+--------------------
+I - Incluir usuario
+E - Excluir usuario
+A - Alterar usuario
+R - Relatórios
+i
+Digite o identificador, nome, endereço e telefone: 101
+Maria
+Rua do Socorro
+31999999999
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 1
+--------------------
+I - Incluir usuario
+E - Excluir usuario
+A - Alterar usuario
+R - Relatórios
+a
+Digite o identificador do usuário à ser alterado: 101
+Identificador: 101
+Nome: Maria
+Endereco: Rua do Socorro
+Telefone: 31999999999
+Reescreva o nome, endereço e telefone: Maria
+Rua das Morangas
+31999999999
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 1
+--------------------
+I - Incluir usuario
+E - Excluir usuario
+A - Alterar usuario
+R - Relatórios
+r
+Usuarios cadastrados:
+Usuario 1:
+Identificador: 102
+Nome: Rua dos Aimorés
+Endereco: 31444444444
+Telefone: 1
+--------------------
+Usuario 2:
+Identificador: 103
+Nome: Roberto
+Endereco: Rua dos computadores
+Telefone: 31555555555
+--------------------
+Usuario 3:
+Identificador: 101
+Nome: Maria
+Endereco: Rua das Morangas
+Telefone: 31999999999
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 3
+--------------------
+I - Incluir reserva
+E - Excluir reserva
+A - Alterar reserva
+R - Relatórios
+i
+Digite o ID do usuario, ID do livro, data de inicio e data de fim: 101
+201
+13
+11
+2023
+28
+11
+2023
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 3
+--------------------
+I - Incluir reserva
+E - Excluir reserva
+A - Alterar reserva
+R - Relatórios
+i
+Digite o ID do usuario, ID do livro, data de inicio e data de fim: 102
+202
+14
+11
+2023
+29
+11
+2023
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 3
+--------------------
+I - Incluir reserva
+E - Excluir reserva
+A - Alterar reserva
+R - Relatórios
+i
+Digite o ID do usuario, ID do livro, data de inicio e data de fim: 103
+203
+15
+11
+2023
+30
+11
+2023
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 3
+--------------------
+I - Incluir reserva
+E - Excluir reserva
+A - Alterar reserva
+R - Relatórios
+r
+Reserva 1:
+ID usuário: 101
+ID livro: 201
+Data inicio: 13/11/2023
+Data fim: 28/11/2023
+--------------------
+Reserva 2:
+ID usuário: 102
+ID livro: 202
+Data inicio: 14/11/2023
+Data fim: 29/11/2023
+--------------------
+Reserva 3:
+ID usuário: 103
+ID livro: 203
+Data inicio: 15/11/2023
+Data fim: 30/11/2023
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 3
+--------------------
+I - Incluir reserva
+E - Excluir reserva
+A - Alterar reserva
+R - Relatórios
+e
+Digite o ID do usuario e o ID do livro para excluir: 103
+203
+Campos apagados:
+ID usuário: 103
+ID livro: 203
+Data inicio: 15/11/2023
+Data fim: 30/11/2023
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 1
+--------------------
+I - Incluir usuario
+E - Excluir usuario
+A - Alterar usuario
+R - Relatórios
+r
+Usuarios cadastrados:
+Usuario 1:
+Identificador: 102
+Nome: Rua dos Aimorés
+Endereco: 31444444444
+Telefone: 1
+--------------------
+Usuario 2:
+Identificador: 103
+Nome: Roberto
+Endereco: Rua dos computadores
+Telefone: 31555555555
+--------------------
+Usuario 3:
+Identificador: 101
+Nome: Maria
+Endereco: Rua das Morangas
+Telefone: 31999999999
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 3
+--------------------
+I - Incluir reserva
+E - Excluir reserva
+A - Alterar reserva
+R - Relatórios
+r
+Reserva 1:
+ID usuário: 101
+ID livro: 201
+Data inicio: 13/11/2023
+Data fim: 28/11/2023
+--------------------
+Reserva 2:
+ID usuário: 102
+ID livro: 202
+Data inicio: 14/11/2023
+Data fim: 29/11/2023
+--------------------
+1 - Usuário
+2 - Livro
+3 - Reserva
+4 - Relatórios
+5 - Sair
+Escolha uma opção: 3
+--------------------
+I - Incluir reserva
+E - Excluir reserva
+A - Alterar reserva
+R - Relatórios
+a
+Digite o ID do usuario e o ID do livro para alterar: 103
+203
+[27]    7092 segmentation fault (core dumped)  ./a.out
+
+
+Não foi possível rodar os casos de teste 18 e 19 pois não é possível alterar a data de uma reserva que foi excluída
